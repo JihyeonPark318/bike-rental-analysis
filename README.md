@@ -28,8 +28,7 @@
 4. Visualized monthly rental trends using Seaborn line plot
 
 ## 🖼️ Visualization Result
-
-<img src="images/monthly_rental_lineplot.png" alt="Monthly Rental Volume Line Plot" width="600"/>
+![예시 이미지](result.png)
 
 - Significant increase in rentals during **April and May** → likely due to warmer spring weather
 - **January and February** show lower usage, consistent with cold winter conditions
