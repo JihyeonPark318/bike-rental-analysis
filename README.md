@@ -45,12 +45,6 @@
 - `.crdownload` files are incomplete downloads → resolved by re-downloading
 - Korean CSV files often require specific encoding like `cp949` or `utf-8-sig` for proper reading in Python
 
-## 📂 Project Structure
-📁 bike-rental-analysis/
-├── Seoul_Bike_Daily_Rentals_2024_1-6.csv
-├── bike_rental_analysis.ipynb
-└── README.md
-
 
 ## 🔗 Notes
 
