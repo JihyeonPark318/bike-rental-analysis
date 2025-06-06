@@ -49,4 +49,9 @@
 
 - This project focuses on **basic data exploration and visualization**.
 - Full analysis can be found in the Jupyter Notebook (`bike_rental_analysis.ipynb`).
+---
 
+## 🧑‍💻 Author
+
+> Maintained by Jihyeon Park
+> Tech blog: [https://aeolian-stranger-f37.notion.site/Monthly-rental-volume-of-public-bicycles-in-Seoul-2026eded231080b1ad20fd551afe9eb2?pvs=74]
